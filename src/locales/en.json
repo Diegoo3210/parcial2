@@ -1,0 +1,10 @@
+{
+    "Name": "Name",
+    "Country": "Country",
+    "Genre": "Genre",
+    "Foundation": "Foundation",
+    "Bands": "Bands",
+    "OldMsg1":"The Oldest band is ",
+    "OldMsg2": " and was foundated  ",
+    "OldMsg3": " years"
+}
